@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,www.msftconnecttest.com
+IP-CIDR,131.107.255.255/32,no-resolve
