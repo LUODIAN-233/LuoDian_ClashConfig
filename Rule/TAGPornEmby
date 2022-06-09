@@ -1,1 +1,5 @@
-
+DOMAIN-SUFFIX,register.embylianmeng.com
+DOMAIN-SUFFIX,tagemby.embylianmeng.com
+DOMAIN-SUFFIX,embylianmeng.com
+IP-CIDR,172.67.188.193/32,no-resolve
+IP-CIDR,104.21.65.36/32,no-resolve
