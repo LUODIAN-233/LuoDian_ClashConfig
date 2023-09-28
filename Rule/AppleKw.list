@@ -1,3 +1,5 @@
-DOMAIN-KEYWORD,apple
-DOMAIN-KEYWORD,icloud
-DOMAIN-KEYWORD,itunes
+GEOSITE,apple
+GEOSITE,apple-ads
+GEOSITE,apple-dev
+GEOSITE,apple-pki
+GEOSITE,apple-update
