@@ -1,5 +1,5 @@
-GEOSITE,apple,Apple\
-GEOSITE,apple-ads,Apple\
-GEOSITE,apple-dev,Apple\
-GEOSITE,apple-pki,Apple\
-GEOSITE,apple-update,Apple\
+ - GEOSITE,apple,Apple
+ - GEOSITE,apple-ads,Apple
+ - GEOSITE,apple-dev,Apple
+ - GEOSITE,apple-pki,Apple
+ - GEOSITE,apple-update,Apple
