@@ -1,4 +1,4 @@
-DOMAIN-KEYWORD,mobile
+#DOMAIN-KEYWORD,mobile  于查找我的iPhone衝突
 #确认存在的域名
 DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-SUFFIX,launchdarkly.com
