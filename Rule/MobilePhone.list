@@ -1,10 +1,12 @@
-#DOMAIN-KEYWORD,mobile  于查找我的iPhone衝突
+#DOMAIN-KEYWORD,mobile  与查找我的iPhone衝突
 #确认存在的域名
 DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,mintmobile.com
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com #ClubSim Wifi-Calling 检测？
 
 #被隐藏的域名
 DOMAIN-SUFFIX,4gppnetwork.org
