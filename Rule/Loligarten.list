@@ -1,0 +1,7 @@
+# 内容： Loligarten Network 内网IP段
+# 数量： 5条
+IP-CIDR,10.11.0.0/16,no-resolve
+IP-CIDR,10.1.0.0/16,no-resolve
+IP-CIDR,10.106.0.0/16,no-resolve
+IP-CIDR,10.5.0.0/16,no-resolve
+IP-CIDR,10.7.21.0/24,no-resolve
